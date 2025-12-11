@@ -10,7 +10,7 @@ Official Homebrew tap for [Email Sentinel](https://github.com/datateamsix/email-
 ```bash
 brew tap datateamsix/tap
 brew install email-sentinel
-``` {data-source-line="72"}
+``` 
 
 ## Available Formulae
 
@@ -21,7 +21,7 @@ brew install email-sentinel
 ```bash
 brew update
 brew upgrade email-sentinel
-``` {data-source-line="83"}
+``` 
 
 ## Issues
 
